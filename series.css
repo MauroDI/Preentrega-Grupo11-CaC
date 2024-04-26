@@ -22,7 +22,7 @@ body {
 
 
 .header {
-    background-image: url(/Imgs/Banners/better-call-saul-season1-4233018096.jpg);
+    background-image: url(./Imgs/Banners/better-call-saul-season1-4233018096.jpg);
     background: position 100px;
     background-repeat: no-repeat;
     background-size: cover;
